@@ -13,6 +13,8 @@
 
 .sizes{
     font-size: 90px;
-    rotate: 90%;
-
+    .titles{font-size: 90px;
+        color: red;
+    }
 }
+
